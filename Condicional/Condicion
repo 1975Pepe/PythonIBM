@@ -1,0 +1,22 @@
+# Definimos una variable x con una cadena
+x = "El valor de (a+b)*c es"
+# Podemos realizar múltiples asignaciones
+a, b, c = 4, 3, 2
+# Realizamos unas operaciones con a,b,c
+d = (a + b) * c
+# Definimos una variable booleana
+imprimir = True
+# Si imprimir, print()
+if imprimir:
+    print(x, d)
+'''
+la condición hace lo siguiente: comprueba Si imprimir es True y realiza las acciones si se cumple la condición.
+A imprimir le pasamos el valor True, por lo tanto, realiza la operación. Si en otro lugar del código le pasamos
+el valor False, no cumpliría la condición.
+'''
+
+'''
+Esto es un comentario
+de varias líneas
+de código
+'''
