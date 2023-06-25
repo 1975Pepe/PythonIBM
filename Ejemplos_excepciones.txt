@@ -1,0 +1,24 @@
+En Python, existen varios tipos de excepciones. Algunos de los tipos de excepciones más comunes en Python son:
+
+1. `SyntaxError`: Se produce cuando el intérprete de Python encuentra
+    un error de sintaxis en el código, lo cual impide que se ejecute correctamente.
+
+2. `NameError`: Se produce cuando se intenta utilizar una variable
+     o un nombre que no está definido en el ámbito actual.
+
+3. `TypeError`: Se produce cuando se realiza una operación en objetos de tipos incompatibles.
+    Por ejemplo, tratar de sumar un número y una cadena.
+
+4. `ZeroDivisionError`: Se produce cuando se intenta dividir un número entre cero.
+    Esta excepción se produce específicamente para evitar divisiones por cero,
+    ya que es una operación matemáticamente indefinida.
+
+5. `IndexError`: Se produce cuando se intenta acceder a un índice inválido en una secuencia,
+    como una lista o una cadena. Por ejemplo, intentar acceder a un elemento en una lista utilizando un índice que está fuera de rango.
+
+6. `FileNotFoundError`: Se produce cuando se intenta abrir un archivo que no existe en el sistema de archivos.
+
+7. `ValueError`: Se produce cuando una función recibe un argumento de tipo correcto pero con un valor inapropiado.
+    Por ejemplo, llamar a la función `int()` con una cadena no numérica.
+
+8. `KeyError`: Se produce cuando se intenta acceder a una clave inexistente en un diccionario.
