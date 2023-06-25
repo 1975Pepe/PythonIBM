@@ -14,7 +14,8 @@ En Python, existen varios tipos de excepciones. Algunos de los tipos de excepcio
     ya que es una operación matemáticamente indefinida.
 
 5. `IndexError`: Se produce cuando se intenta acceder a un índice inválido en una secuencia,
-    como una lista o una cadena. Por ejemplo, intentar acceder a un elemento en una lista utilizando un índice que está fuera de rango.
+    como una lista o una cadena. Por ejemplo, intentar acceder a un elemento en una lista
+    utilizando un índice que está fuera de rango.
 
 6. `FileNotFoundError`: Se produce cuando se intenta abrir un archivo que no existe en el sistema de archivos.
 
