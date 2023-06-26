@@ -17,3 +17,6 @@ c = "hola mundo"
 print(c[0])  # h
 print(c[5:])  # mundo
 print(c[::3])  # hauo
+
+thistuple = ("apple", "banana", "cherry")
+print(thistuple[1])
