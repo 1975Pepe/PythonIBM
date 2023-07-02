@@ -7,7 +7,7 @@ def area(r):
     return areaC
 
 
-valores = [1, 3, 0, -1, -3, 2+3j, True, 'hola']
+valores = [1, 3, 0, -1, -3]
 
 for v in valores:
     areaCalculada = area(v)
