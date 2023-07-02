@@ -5,10 +5,10 @@ class Persona:
 
 
 persona = Persona("Pepe", 30)
-print("Te llamas " + persona.nombre + " y tienes " + str(persona.edad) + " años")
+print("Te llamas ", persona.nombre, " y tienes ", (persona.edad), " años")
 
 
-'''
+"""
 El método `__init__()` es un método especial en Python que se utiliza para 
 inicializar un objeto recién creado de una clase. Es conocido como el "constructor" de la clase.
 
@@ -25,4 +25,4 @@ aunque el primer parámetro debe ser `self`, que es una referencia al propio obj
 
 Es importante destacar que el método `__init__()` no devuelve ningún valor explícito, ya que su propósito es inicializar el objeto
 y no generar una salida en particular.
-'''
+"""

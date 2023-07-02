@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "formulahendry.code-runner",
-        "ms-ceintl.vscode-language-pack-es"
+        "ms-ceintl.vscode-language-pack-es",
+        "demystifying-javascript.python-extensions-pack"
     ]
 }
