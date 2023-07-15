@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Ejercicios de ejemplo"
+		}
+	],
+	"settings": {
+		"json.validate.enable": false
+	}
+}
