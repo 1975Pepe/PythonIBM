@@ -8,6 +8,14 @@
 		}
 	],
 	"settings": {
-		"json.validate.enable": false
+		"json.validate.enable": false,
+		"cSpell.customDictionaries": {
+			"custom-dictionary-workspace": {
+				"name": "custom-dictionary-workspace",
+				"path": "${workspaceFolder:PythonIBM}/.cspell/custom-dictionary-workspace.txt",
+				"addWords": true,
+				"scope": "workspace"
+			}
+		}
 	}
 }
